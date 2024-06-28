@@ -1,2 +1,2 @@
 # javascript-curated-course
-Curated Course - Javascript
+Each branch represents an exercise of the curated javascript course.
